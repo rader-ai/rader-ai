@@ -1,6 +1,6 @@
 # Chris Rader
 
-I've spent my career around builders and building: research, users, QA, and product teams. I love solving people's problems, and there are a lot of ways to do it. Lately, a lot of mine get solved by building with AI agents.
+I've spent my career around builders and building: research, users, QA, and product teams. I love solving people's problems, and there are a lot of ways to do it. Lately I solve a lot of them by building with AI agents.
 
 Day job: VP of Product Marketing at Centercode, a customer validation company. This account is what I build on my own time.
 

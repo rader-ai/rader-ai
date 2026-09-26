@@ -18,6 +18,12 @@ The first two power **SwingDino** ([swingdino.com](https://swingdino.com)), a hi
 
 Claude Code writes most of the code. I set the scope, write the rules, review the work, and decide when it's done. I try to say plainly what's been tested and what hasn't. The SwingDino engines each have a STORY.md with the honest version.
 
+## How I got here
+
+I love to build. I'm a creative with deep curiosity and a real passion for helping people, and almost everything I do, at work or outside it, ends up being about that. It's led me to coach, volunteer, lead teams, drive strategy, consult for large organizations, build for small businesses, and automate the manual stuff that eats up people's time.
+
+I've led teams, but I still have an individual contributor's drive to make things myself. AI has opened doors for me, and this feels like the most exciting point in my career so far.
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/crader)

@@ -1,6 +1,6 @@
 # Chris Rader
 
-I've spent almost 14 years on one question: how do you know a product is good before it ships? AI can help build almost anything, and it can build the wrong thing fast. So I build with AI agents every day, and I check their work the same way I'd check any product.
+I've spent my career around builders and building: research, users, QA, and product teams. I love solving people's problems, and there are a lot of ways to do it. Lately, a lot of mine get solved by building with AI agents.
 
 Day job: VP of Product Marketing at Centercode, a customer validation company. This account is what I build on my own time.
 

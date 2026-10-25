@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" role="img" aria-labelledby="t d">
+<title id="t">Receipts: results with and without my skills</title>
+<desc id="d">lighthouse-fix report analysis, graded blind: Haiku 74 to 85 percent, Sonnet 85 to 97, Opus 83 to 100. github-readme-designer checks passed across three repos: 81 to 97 percent.</desc>
+<style>
+.mono { font-family: ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace; }
+.serif { font-family: 'Iowan Old Style','Charter','Palatino Linotype',Georgia,serif; }
+.sans { font-family: system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif; }
+
+.bars { animation: bars 10s linear infinite both; }
+@keyframes bars { 0% { opacity: 0; } 2% { opacity: 1; } 88% { opacity: 1; } 96%,100% { opacity: 0; } }
+.l0 { stroke-dasharray: 203.0; }
+.l0 { animation: l0 10s cubic-bezier(.2,.7,.2,1) infinite both; }
+@keyframes l0 { 0%,4.0% { stroke-dashoffset: 203.0; } 20.0%,100% { stroke-dashoffset: 0; } }
+.d0 { animation: d0 10s cubic-bezier(.2,.7,.2,1) infinite both; }
+@keyframes d0 { 0%,4.0% { transform: translateX(-203.0px); } 20.0%,100% { transform: translateX(0); } }
+.c0_0 { animation: c0_0 10s linear infinite both; }
+@keyframes c0_0 { 0%,4.0% { opacity: 0; } 4.1%,7.2% { opacity: 1; } 7.3%,100% { opacity: 0; } }
+.c0_1 { animation: c0_1 10s linear infinite both; }
+@keyframes c0_1 { 0%,7.2% { opacity: 0; } 7.3%,10.4% { opacity: 1; } 10.5%,100% { opacity: 0; } }
+.c0_2 { animation: c0_2 10s linear infinite both; }
+@keyframes c0_2 { 0%,10.4% { opacity: 0; } 10.5%,13.6% { opacity: 1; } 13.7%,100% { opacity: 0; } }
+.c0_3 { animation: c0_3 10s linear infinite both; }
+@keyframes c0_3 { 0%,13.6% { opacity: 0; } 13.7%,16.8% { opacity: 1; } 16.9%,100% { opacity: 0; } }
+.c0_4 { animation: c0_4 10s linear infinite both; }
+@keyframes c0_4 { 0%,16.8% { opacity: 0; } 16.9%,100% { opacity: 1; } }
+.l1 { stroke-dasharray: 221.4; }
+.l1 { animation: l1 10s cubic-bezier(.2,.7,.2,1) infinite both; }
+@keyframes l1 { 0%,10.0% { stroke-dashoffset: 221.4; } 26.0%,100% { stroke-dashoffset: 0; } }
+.d1 { animation: d1 10s cubic-bezier(.2,.7,.2,1) infinite both; }
+@keyframes d1 { 0%,10.0% { transform: translateX(-221.4px); } 26.0%,100% { transform: translateX(0); } }
+.c1_0 { animation: c1_0 10s linear infinite both; }
+@keyframes c1_0 { 0%,10.0% { opacity: 0; } 10.1%,13.2% { opacity: 1; } 13.3%,100% { opacity: 0; } }
+.c1_1 { animation: c1_1 10s linear infinite both; }
+@keyframes c1_1 { 0%,13.2% { opacity: 0; } 13.3%,16.4% { opacity: 1; } 16.5%,100% { opacity: 0; } }
+.c1_2 { animation: c1_2 10s linear infinite both; }
+@keyframes c1_2 { 0%,16.4% { opacity: 0; } 16.5%,19.6% { opacity: 1; } 19.7%,100% { opacity: 0; } }
+.c1_3 { animation: c1_3 10s linear infinite both; }
+@keyframes c1_3 { 0%,19.6% { opacity: 0; } 19.7%,22.8% { opacity: 1; } 22.9%,100% { opacity: 0; } }
+.c1_4 { animation: c1_4 10s linear infinite both; }
+@keyframes c1_4 { 0%,22.8% { opacity: 0; } 22.9%,100% { opacity: 1; } }
+.l2 { stroke-dasharray: 313.7; }
+.l2 { animation: l2 10s cubic-bezier(.2,.7,.2,1) infinite both; }
+@keyframes l2 { 0%,16.0% { stroke-dashoffset: 313.7; } 32.0%,100% { stroke-dashoffset: 0; } }
+.d2 { animation: d2 10s cubic-bezier(.2,.7,.2,1) infinite both; }
+@keyframes d2 { 0%,16.0% { transform: translateX(-313.7px); } 32.0%,100% { transform: translateX(0); } }
+.c2_0 { animation: c2_0 10s linear infinite both; }
+@keyframes c2_0 { 0%,16.0% { opacity: 0; } 16.1%,19.2% { opacity: 1; } 19.3%,100% { opacity: 0; } }
+.c2_1 { animation: c2_1 10s linear infinite both; }
+@keyframes c2_1 { 0%,19.2% { opacity: 0; } 19.3%,22.4% { opacity: 1; } 22.5%,100% { opacity: 0; } }
+.c2_2 { animation: c2_2 10s linear infinite both; }
+@keyframes c2_2 { 0%,22.4% { opacity: 0; } 22.5%,25.6% { opacity: 1; } 25.7%,100% { opacity: 0; } }
+.c2_3 { animation: c2_3 10s linear infinite both; }
+@keyframes c2_3 { 0%,25.6% { opacity: 0; } 25.7%,28.8% { opacity: 1; } 28.9%,100% { opacity: 0; } }
+.c2_4 { animation: c2_4 10s linear infinite both; }
+@keyframes c2_4 { 0%,28.8% { opacity: 0; } 28.9%,100% { opacity: 1; } }
+.l3 { stroke-dasharray: 295.2; }
+.l3 { animation: l3 10s cubic-bezier(.2,.7,.2,1) infinite both; }
+@keyframes l3 { 0%,22.0% { stroke-dashoffset: 295.2; } 38.0%,100% { stroke-dashoffset: 0; } }
+.d3 { animation: d3 10s cubic-bezier(.2,.7,.2,1) infinite both; }
+@keyframes d3 { 0%,22.0% { transform: translateX(-295.2px); } 38.0%,100% { transform: translateX(0); } }
+.c3_0 { animation: c3_0 10s linear infinite both; }
+@keyframes c3_0 { 0%,22.0% { opacity: 0; } 22.1%,25.2% { opacity: 1; } 25.3%,100% { opacity: 0; } }
+.c3_1 { animation: c3_1 10s linear infinite both; }
+@keyframes c3_1 { 0%,25.2% { opacity: 0; } 25.3%,28.4% { opacity: 1; } 28.5%,100% { opacity: 0; } }
+.c3_2 { animation: c3_2 10s linear infinite both; }
+@keyframes c3_2 { 0%,28.4% { opacity: 0; } 28.5%,31.6% { opacity: 1; } 31.7%,100% { opacity: 0; } }
+.c3_3 { animation: c3_3 10s linear infinite both; }
+@keyframes c3_3 { 0%,31.6% { opacity: 0; } 31.7%,34.8% { opacity: 1; } 34.9%,100% { opacity: 0; } }
+.c3_4 { animation: c3_4 10s linear infinite both; }
+@keyframes c3_4 { 0%,34.8% { opacity: 0; } 34.9%,100% { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="1280" height="470" rx="18" fill="#EDF2ED"/>
+<g><line x1="0" y1="28" x2="1280" y2="28" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="56" x2="1280" y2="56" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="84" x2="1280" y2="84" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="112" x2="1280" y2="112" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="140" x2="1280" y2="140" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="168" x2="1280" y2="168" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="196" x2="1280" y2="196" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="224" x2="1280" y2="224" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="252" x2="1280" y2="252" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="280" x2="1280" y2="280" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="308" x2="1280" y2="308" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="336" x2="1280" y2="336" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="364" x2="1280" y2="364" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="392" x2="1280" y2="392" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="420" x2="1280" y2="420" stroke="#CFDFD3" stroke-width="1"/><line x1="0" y1="448" x2="1280" y2="448" stroke="#CFDFD3" stroke-width="1"/></g>
+<line x1="40" y1="0" x2="40" y2="470" stroke="#D46A5E" stroke-width="1.2" opacity=".55"/>
+<text class="mono" x="72" y="70" font-size="13" letter-spacing="2" fill="#5E6C76">RECEIPTS · SAME MODEL, SAME TASK, WITH AND WITHOUT MY SKILLS</text><text class="serif" x="70" y="116" font-size="32" fill="#1D2B3A">I publish what I tested, and how it scored.</text><line x1="402" y1="158" x2="402" y2="380" stroke="#A8B6AE" stroke-dasharray="2 5"/><text class="mono" x="402" y="400" font-size="12" text-anchor="middle" fill="#5E6C76">60%</text><line x1="771" y1="158" x2="771" y2="380" stroke="#A8B6AE" stroke-dasharray="2 5"/><text class="mono" x="771" y="400" font-size="12" text-anchor="middle" fill="#5E6C76">80%</text><line x1="1140" y1="158" x2="1140" y2="380" stroke="#A8B6AE" stroke-dasharray="2 5"/><text class="mono" x="1140" y="400" font-size="12" text-anchor="middle" fill="#5E6C76">100%</text><text class="mono" x="72" y="187" font-size="14" font-weight="700" fill="#1D2B3A">lighthouse-fix · Haiku</text><text class="mono" x="72" y="205" font-size="12" fill="#5E6C76">report analysis, graded blind</text><circle cx="660.3" cy="186" r="8" fill="#EDF2ED" stroke="#9DAAB2" stroke-width="3"/><text class="mono" x="646.3" y="191" font-size="13" text-anchor="end" fill="#5E6C76">74%</text><g class="bars"><line class="l0" x1="660.3" y1="186" x2="863.2" y2="186" stroke="#C2412D" stroke-width="4" stroke-linecap="round"/><g class="d0"><circle cx="863.2" cy="186" r="9" fill="#C2412D"/><text class="c0_0 mono" x="879.2" y="191.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">76%</text><text class="c0_1 mono" x="879.2" y="191.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">78%</text><text class="c0_2 mono" x="879.2" y="191.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">81%</text><text class="c0_3 mono" x="879.2" y="191.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">83%</text><text class="c0_4 mono" x="879.2" y="191.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="1">85%</text></g></g><text class="mono" x="72" y="243" font-size="14" font-weight="700" fill="#1D2B3A">lighthouse-fix · Sonnet</text><text class="mono" x="72" y="261" font-size="12" fill="#5E6C76">report analysis, graded blind</text><circle cx="863.2" cy="242" r="8" fill="#EDF2ED" stroke="#9DAAB2" stroke-width="3"/><text class="mono" x="849.2" y="247" font-size="13" text-anchor="end" fill="#5E6C76">85%</text><g class="bars"><line class="l1" x1="863.2" y1="242" x2="1084.7" y2="242" stroke="#C2412D" stroke-width="4" stroke-linecap="round"/><g class="d1"><circle cx="1084.7" cy="242" r="9" fill="#C2412D"/><text class="c1_0 mono" x="1100.7" y="247.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">87%</text><text class="c1_1 mono" x="1100.7" y="247.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">90%</text><text class="c1_2 mono" x="1100.7" y="247.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">92%</text><text class="c1_3 mono" x="1100.7" y="247.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">95%</text><text class="c1_4 mono" x="1100.7" y="247.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="1">97%</text></g></g><text class="mono" x="72" y="299" font-size="14" font-weight="700" fill="#1D2B3A">lighthouse-fix · Opus</text><text class="mono" x="72" y="317" font-size="12" fill="#5E6C76">report analysis, graded blind</text><circle cx="826.3" cy="298" r="8" fill="#EDF2ED" stroke="#9DAAB2" stroke-width="3"/><text class="mono" x="812.3" y="303" font-size="13" text-anchor="end" fill="#5E6C76">83%</text><g class="bars"><line class="l2" x1="826.3" y1="298" x2="1140.0" y2="298" stroke="#C2412D" stroke-width="4" stroke-linecap="round"/><g class="d2"><circle cx="1140.0" cy="298" r="9" fill="#C2412D"/><text class="c2_0 mono" x="1156.0" y="303.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">86%</text><text class="c2_1 mono" x="1156.0" y="303.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">90%</text><text class="c2_2 mono" x="1156.0" y="303.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">93%</text><text class="c2_3 mono" x="1156.0" y="303.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">97%</text><text class="c2_4 mono" x="1156.0" y="303.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="1">100%</text></g></g><text class="mono" x="72" y="355" font-size="14" font-weight="700" fill="#1D2B3A">github-readme-designer</text><text class="mono" x="72" y="373" font-size="12" fill="#5E6C76">checks passed across 3 repos</text><circle cx="789.5" cy="354" r="8" fill="#EDF2ED" stroke="#9DAAB2" stroke-width="3"/><text class="mono" x="775.5" y="359" font-size="13" text-anchor="end" fill="#5E6C76">81%</text><g class="bars"><line class="l3" x1="789.5" y1="354" x2="1084.7" y2="354" stroke="#C2412D" stroke-width="4" stroke-linecap="round"/><g class="d3"><circle cx="1084.7" cy="354" r="9" fill="#C2412D"/><text class="c3_0 mono" x="1100.7" y="359.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">84%</text><text class="c3_1 mono" x="1100.7" y="359.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">87%</text><text class="c3_2 mono" x="1100.7" y="359.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">91%</text><text class="c3_3 mono" x="1100.7" y="359.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="0">94%</text><text class="c3_4 mono" x="1100.7" y="359.0" font-size="14" font-weight="700" fill="#1D2B3A" opacity="1">97%</text></g></g><g class="mono" font-size="13" fill="#5E6C76"><circle cx="80" cy="432" r="7" fill="#EDF2ED" stroke="#9DAAB2" stroke-width="3"/><text x="96" y="437">without the skill</text><circle cx="260" cy="432" r="8" fill="#C2412D"/><text x="276" y="437">with the skill</text><text x="1208" y="437" text-anchor="end">One run per setup. Methods and raw results are in each repo.</text></g>
+</svg>
